@@ -1,7 +1,6 @@
 # Olá, eu sou o Jonathan Galvier 🖖🏽 
 - 🕵🏽‍♂️ Estou a procura de um trabalho com front-end
 - 📚 Atualmente estudando Angular
-- 📫 Contate-me no email: jonathangalvier@gmail.com
 
 <div align="center">
   <a href="https://github.com/Galvier">
