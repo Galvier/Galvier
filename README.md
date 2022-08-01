@@ -4,8 +4,9 @@ Abaixo você vê um pouco de mim:
 - 🌱 Vim da área de Redes e estou em transição para a carreira de DEV
 - 🕵🏽‍♂️ Estou a procura de um trabalho na Web 3.
 - 🏋🏽‍♂️ Autodidata.
-- <img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> Atualmente estudando React 
-  
+- <img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> Atualmente estudando React
+- <img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" /> Atualmente estudando Solidity
+ 
 ## Skills
 
 ### Tecnologias que mais uso 💻
@@ -16,6 +17,8 @@ Abaixo você vê um pouco de mim:
   <img align="center" alt="jon-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
   
 ### Tecnologias que estou estudando ou sei um pouco menos. 💾
+  <img align="center" alt="jon-React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="jon-Solidity" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg">
   <img align="center" alt="jon-Angular" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original-wordmark.svg">
   <img align="center" alt="jon-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="jon-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
