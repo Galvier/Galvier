@@ -1,10 +1,10 @@
-# Olá, eu sou o Jonathan 🖖🏽 
+# Olá, eu sou o Jonathan 🖖🏽
 
 Abaixo você vê um pouco de mim:
-- 🌱 Em transição para a carreira de DEV
-- 🕵🏽‍♂️ Estou a procura de um trabalho com front-end
+- 🌱 Vim da área de Redes e estou em transição para a carreira de DEV
+- 🕵🏽‍♂️ Estou a procura de um trabalho na Web 3.
 - 🏋🏽‍♂️ Autodidata.
-- <img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> Atualmente estudando Angular 
+- <img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> Atualmente estudando React 
   
 ## Skills
 
