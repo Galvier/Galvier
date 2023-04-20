@@ -34,7 +34,7 @@ Abaixo você vê um pouco de mim:
 <div align="center">
   <a href="https://github.com/Galvier">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Galvier&custom_title=StatusGitHubJonathanGalvier&show_icons=true&border_radius=20&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galvier&custom_title=Linguagensmaisusadas&layout=compact&border_radius=9&langs_count=7&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galvier&custom_title=Linguagens_mais_usadas&layout=compact&border_radius=9&langs_count=7&theme=algolia"/>
   </div>
   
 ## Redes Sociais
