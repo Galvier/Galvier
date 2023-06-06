@@ -1,11 +1,11 @@
 # Olá, eu sou o Jonathan 🖖🏽
 
 Abaixo você vê um pouco de mim:
-- 🌱 Vim da área de Redes e estou em transição para a carreira de DEV
-- 🕵🏽‍♂️ Estou a procura de um trabalho na Web 3.
+- 🌱 Aprendendo todo dia
+- 🕵🏽‍♂️ Estou a procura de um projeto em Web 3.
 - 🏋🏽‍♂️ Autodidata.
-- <img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> Atualmente estudando React
-- <img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" /> Atualmente estudando Solidity
+- <img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> Atualmente estudando JAVA
+- <img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /> Atualmente estudando Kotlin
  
 ## Skills
 
