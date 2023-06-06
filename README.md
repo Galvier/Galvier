@@ -5,12 +5,15 @@ Abaixo você vê um pouco de mim:
 - 🕵🏽‍♂️ Estou a procura de um projeto em Web 3.
 - 🏋🏽‍♂️ Autodidata.
 - <img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> Atualmente estudando JAVA
-- <img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /> Atualmente estudando Kotlin
+- <img align="center" height="15" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /> Atualmente estudando Kotlin
  
 ## Skills
 
 ### Tecnologias que mais uso 💻
   <div style="display: inline_block"><br>
+  <img align="center" alt="Jon-JAVA" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Jon-Kotlin" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Jon-SQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="Jon-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jon-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
   <img align="center" alt="Jon-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
