@@ -2,7 +2,6 @@
 
 Abaixo você vê um pouco de mim:
 - 🌱 Aprendendo todo dia
-- 🕵🏽‍♂️ Estou a procura de um projeto em Web 3.
 - 🏋🏽‍♂️ Autodidata.
 - <img align="center" height="20" width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> Atualmente estudando JAVA
 - <img align="center" height="15" width="15" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" /> Atualmente estudando Kotlin
